@@ -27,11 +27,11 @@ Timpla Coffee Club runs a monthly coffee subscription. There are two tables: cus
 ## process
 BigQuery is used to combine the various datasets into one dataset and clean it.   
 
-### Combining the Data
-
-
 ### Data Exploration
-Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.   
+SQL query:   
+2 csv files are uploaded as tables in the dataset 'SQL1'. Another table named "data_cleaning" is created, containing 383 rows of data for the first half of 2026.   
+
+Before cleaning the data, I am combining the data and familiarizing myself with it to find the inconsistencies.   
 
 Observation:
 
