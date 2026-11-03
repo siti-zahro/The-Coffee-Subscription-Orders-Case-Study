@@ -1,11 +1,13 @@
 # The Coffee Subscription Orders: Case Study
 
 ## Introduction
-In this case study, I will perform scenario tasks of an analyst at a fictional company, Timpla Coffee Club. In order to answer the key business questions, I will follow the steps of the data analysis process:
+In this case study, I will perform scenario tasks of an analyst at a fictional company, Timpla Coffee Club. In order to answer the key business questions, I will follow the steps of the data analysis process: [Task](<img width="190" height="59" alt="image" src="https://github.com/user-attachments/assets/33803571-50eb-411e-a2c3-601b2964dabc" />), 
 
 ### Quick Links
 Data Source: [Scenario 3 - SQL](https://www.millennialbusinessacademy.net/free-resources/data-cleaning-lab)   
 Data Cleaning Tool: [BigQuery](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssql-porto-513513!2sasia-southeast2!3sb5b34d0a-ee1e-4128-810d-47942074618e!2e1)
+
+BigQuery is used to combine the various datasets into one dataset, clean it, and analyze it.
 
 ## Brief
 
@@ -24,10 +26,7 @@ Timpla Coffee Club runs a monthly coffee subscription. There are two tables: cus
 3. What is the total paid revenue?
 4. How many Paid orders are there?
 
-## Process
-BigQuery is used to combine the various datasets into one dataset and clean it.   
-
-### Data Exploration
+## Data Exploration
 SQL query: [Data Exploration](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/01.%20Data%20Exploration.sql)   
 2 csv files are uploaded as tables in the dataset 'SQL1'. Another table named "data_cleaning" is created, containing 383 rows of data for the first half of 2026.   
 
@@ -57,7 +56,7 @@ Observation:
 
    There are 368 unique rows.
 
-### Data Cleaning
+## Data Cleaning
 SQL Query: [Data Cleaning](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/02.%20Data%20Cleaning.sql)   
 
 1. Convert data type.
@@ -67,7 +66,7 @@ SQL Query: [Data Cleaning](https://github.com/siti-zahro/The-Coffee-Subscription
 5. All the duplicate rows in `order_id` column are deleted.
 6. Total 15 rows are removed in this step.
 
-### Data Analysis
+## Data Analysis
 SQL Query: [Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/03.%20Data%20Analysis.sql)   
 
 **Analysis Answer**
