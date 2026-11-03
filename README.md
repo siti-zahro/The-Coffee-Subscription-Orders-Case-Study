@@ -21,7 +21,7 @@ Timpla Coffee Club runs a monthly coffee subscription. There are two tables: cus
 
 ## Task
 
-**Cleaning Requested:**
+**Cleaning Requested**
 1. Download both CSVs and import them into a free SQL tool: DB Browser for SQLite is easiest, or a BigQuery sandbox.
 2. Load timpla-customers.csv into a customers table and timpla-orders.csv into an orders table.
 3. Clean with queries, then answer. Dedup and standardize status before you aggregate.
