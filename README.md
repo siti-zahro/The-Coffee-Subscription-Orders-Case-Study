@@ -1,7 +1,7 @@
 # The Coffee Subscription Orders: Case Study
 
 ## Introduction
-In this case study, I will perform scenario tasks of an analyst at a fictional company, Timpla Coffee Club. In order to answer the key business questions, I will follow the steps of the data analysis process: [Task](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#task), [Data Exploration](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#data-exploration), [Data Cleaning](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#data-cleaning), [Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#data-analysis)
+In this case study, I will perform scenario tasks of an analyst at a fictional company, Timpla Coffee Club. In order to answer the key business questions, I will follow the steps of the data analysis process: [Task](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#task), [Data Exploration](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#data-exploration), [Data Cleaning](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#data-cleaning), [Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/README.md#data-analysis).
 
 ### Quick Links
 Data Source: [Scenario 3 - SQL](https://www.millennialbusinessacademy.net/free-resources/data-cleaning-lab)   
