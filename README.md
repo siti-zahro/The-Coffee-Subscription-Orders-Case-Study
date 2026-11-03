@@ -24,7 +24,7 @@ Timpla Coffee Club runs a monthly coffee subscription. There are two tables: cus
 3. What is the total paid revenue?
 4. How many Paid orders are there?
 
-## process
+## Process
 BigQuery is used to combine the various datasets into one dataset and clean it.   
 
 ### Data Exploration
@@ -72,18 +72,18 @@ SQL Query: [Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription
 
 **Analysis Answer**
 
-1. How many distinct orders are there? 368
+1. **How many distinct orders are there?** 368
 
    <img width="190" height="59" alt="image" src="https://github.com/user-attachments/assets/33803571-50eb-411e-a2c3-601b2964dabc" />
 
-2. How many orphan orders (no matching customer) are there? 8
+2. **How many orphan orders (no matching customer) are there?** 8
 
    <img width="256" height="246" alt="image" src="https://github.com/user-attachments/assets/98c6b8d5-f6ff-4230-986d-c95e5757a050" />
 
-3. What is the total paid revenue? ₱233,036
+3. **What is the total paid revenue?** ₱233,036
 
    <img width="185" height="55" alt="image" src="https://github.com/user-attachments/assets/43dd13a1-dd95-4976-8eb6-df3debd18365" />
 
-4. How many Paid orders are there? 260
+4. **How many Paid orders are there?** 260
 
    <img width="187" height="59" alt="image" src="https://github.com/user-attachments/assets/9e381769-f76b-4ae5-8aed-75f432dd840c" />
