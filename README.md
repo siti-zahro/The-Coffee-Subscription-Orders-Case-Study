@@ -74,11 +74,11 @@ SQL Query: [Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription
 
 1. How many distinct orders are there? 368
 
-   <img width="256" height="246" alt="image" src="https://github.com/user-attachments/assets/98c6b8d5-f6ff-4230-986d-c95e5757a050" />
+   <img width="190" height="59" alt="image" src="https://github.com/user-attachments/assets/33803571-50eb-411e-a2c3-601b2964dabc" />
 
 2. How many orphan orders (no matching customer) are there? 8
 
-   <img width="190" height="59" alt="image" src="https://github.com/user-attachments/assets/33803571-50eb-411e-a2c3-601b2964dabc" />
+   <img width="256" height="246" alt="image" src="https://github.com/user-attachments/assets/98c6b8d5-f6ff-4230-986d-c95e5757a050" />
 
 3. What is the total paid revenue? ₱233,036
 
