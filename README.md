@@ -7,9 +7,9 @@ In this case study, I will perform scenario tasks of an analyst at a fictional c
 Data Source: [Scenario 3 - SQL](https://www.millennialbusinessacademy.net/free-resources/data-cleaning-lab)   
 
 SQL Queries:   
-[01. Data Exploration](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/01.%20Data%20Exploration.sql)   
-[02. Data Cleaning](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/02.%20Data%20Cleaning.sql)   
-[03. Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/03.%20Data%20Analysis.sql)   
+[01. Data Exploration.sql](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/01.%20Data%20Exploration.sql)   
+[02. Data Cleaning.sql](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/02.%20Data%20Cleaning.sql)   
+[03. Data Analysis.sql](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/03.%20Data%20Analysis.sql)   
 
 Data Cleaning Tool: [BigQuery](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssql-porto-513513!2sasia-southeast2!3sb5b34d0a-ee1e-4128-810d-47942074618e!2e1)
 
