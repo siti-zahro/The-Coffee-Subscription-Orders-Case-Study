@@ -4,7 +4,7 @@
 In this case study, I will perform real-world tasks of an analyst at a fictional company, Timpla Coffee Club. In order to answer the key business questions, I will follow the steps of the data analysis process:
 
 ### Quick Links
-Data Source: [Scenario 3 (SQL)](https://www.millennialbusinessacademy.net/free-resources/data-cleaning-lab)
+Data Source: [Scenario 3 - SQL](https://www.millennialbusinessacademy.net/free-resources/data-cleaning-lab)   
 Data Cleaning Tool: [BigQuery](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1ssql-porto-513513!2sasia-southeast2!3sb5b34d0a-ee1e-4128-810d-47942074618e!2e1)
 
 ## Brief
