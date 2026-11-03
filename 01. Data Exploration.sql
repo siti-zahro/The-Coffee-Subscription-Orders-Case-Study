@@ -13,7 +13,7 @@ WITH data_cleaning AS(
     status,
     payment_method
   FROM `SQL1.Customers` c
-  FULL JOIN `SQL1.Orders` o
+  RIGHT JOIN `SQL1.Orders` o
     ON c.customer_id = o.customer_id
 )
 
