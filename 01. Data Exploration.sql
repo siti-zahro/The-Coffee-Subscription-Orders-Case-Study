@@ -1,6 +1,6 @@
 -- Data Exploration
 
--- First, Combining Data in CTE as new table named 'data_cleaning' and check total rows
+-- First, combining 2 datas and use CTE to create new table named 'data_cleaning', and check total rows
 
 WITH data_cleaning AS(
   SELECT
