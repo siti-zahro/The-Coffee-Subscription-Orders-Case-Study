@@ -1,7 +1,7 @@
 # The Coffee Subscription Orders: Case Study
 
 ## Introduction
-In this case study, I will perform real-world tasks of an analyst at a fictional company, Timpla Coffee Club. In order to answer the key business questions, I will follow the steps of the data analysis process:
+In this case study, I will perform scenario tasks of an analyst at a fictional company, Timpla Coffee Club. In order to answer the key business questions, I will follow the steps of the data analysis process:
 
 ### Quick Links
 Data Source: [Scenario 3 - SQL](https://www.millennialbusinessacademy.net/free-resources/data-cleaning-lab)   
