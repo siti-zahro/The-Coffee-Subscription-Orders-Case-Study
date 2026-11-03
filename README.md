@@ -5,7 +5,7 @@ In this case study, I will perform scenario tasks of an analyst at a fictional c
 
 ### Quick Links
 Data Source: [Scenario 3 - SQL](https://www.millennialbusinessacademy.net/free-resources/data-cleaning-lab)   
-SQL Queries:
+SQL Queries:   
 [01. Data Exploration](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/01.%20Data%20Exploration.sql)   
 [02. Data Cleaning](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/02.%20Data%20Cleaning.sql)   
 [03. Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription-Orders-Case-Study/blob/main/03.%20Data%20Analysis.sql)   
