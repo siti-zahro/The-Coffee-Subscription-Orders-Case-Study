@@ -54,6 +54,7 @@ Observation:
 5. Because each customer can order coffee multiple times in a different time, then I am checking the unique rows from the `order_id`.
 
    <img width="190" height="59" alt="Screenshot 2026-11-03 165306" src="https://github.com/user-attachments/assets/9a413bdc-8ec3-43d1-b777-4f53bfacc92f" />   
+
    There are 368 unique rows.
 
 ### Data Cleaning
