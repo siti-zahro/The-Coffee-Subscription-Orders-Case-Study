@@ -9,7 +9,7 @@ Data Cleaning Tool: [BigQuery](https://console.cloud.google.com/bigquery?ws=!1m7
 
 ## Brief
 
-Timpla Coffee Club runs a monthly coffee subscription. There are two tables: customers and orders, linked by customer_id. The orders table has a re-pasted chunk of exact duplicate rows, some orders whose customer_id is not in the customers table, amounts stored as text like ₱1,250.00 or with stray spaces, and a status column typed many ways (paid, PAID, complete, Completed). The founder is about to report revenue to an investor and wants it right.
+Timpla Coffee Club runs a monthly coffee subscription. There are two tables: customers and orders, linked by customer_id. The orders table has a re-pasted chunk of exact duplicate rows, some orders whose customer_id is not in the customers table, amounts stored as text like ₱1,250.00 or with stray spaces, and a status column typed many ways (paid, PAID, complete, Completed). The founder, Ms. Tanchanco, is about to report revenue to an investor and wants it right.
 
 ## Task
 
