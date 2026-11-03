@@ -35,20 +35,25 @@ Before cleaning the data, I am combining the data and familiarizing myself with 
 
 Observation:
 
-1. Combining the data to be new table named "data_cleaning" and checking total rows.
-   <img width="188" height="59" alt="image" src="https://github.com/user-attachments/assets/7dde8f58-e1cb-4f04-8125-0ba91ff19225" />
+1. Combining 2 data into a new table named "data_cleaning" and checking total rows.   
 
-2. The table below shows all column names and their data types. The customer_id column is the primary key.
+   <img width="189" height="55" alt="image" src="https://github.com/user-attachments/assets/18d92177-9d6c-4f3a-9daf-efc037cf4839" />
+
+2. The table below shows all column names and their data types. The `customer_id` column is the primary key.
+
    <img width="717" height="59" alt="Screenshot 2026-11-03 222117" src="https://github.com/user-attachments/assets/63b3a30e-18e6-4d26-95b7-28937ae12619" />
 
 3. The following table shows number of null values in each column.
+
    <img width="1057" height="56" alt="Screenshot 2026-11-03 223829" src="https://github.com/user-attachments/assets/6736024f-f616-49e2-808e-b7a16f3f8657" />
 
 4. Now checking the duplicate rows in each column.
+
    <img width="1057" height="57" alt="Screenshot 2026-11-03 224142" src="https://github.com/user-attachments/assets/bc6b05be-b27b-4631-a13f-93ed610afe13" />
 
-5. Because each customer can order coffee multiple times in a different time, then I am checking the unique rows from the order_id.
-   <img width="190" height="59" alt="Screenshot 2026-11-03 165306" src="https://github.com/user-attachments/assets/9a413bdc-8ec3-43d1-b777-4f53bfacc92f" />
+5. Because each customer can order coffee multiple times in a different time, then I am checking the unique rows from the `order_id`.
+
+   <img width="190" height="59" alt="Screenshot 2026-11-03 165306" src="https://github.com/user-attachments/assets/9a413bdc-8ec3-43d1-b777-4f53bfacc92f" />   
    There are 368 unique rows.
 
 ### Data Cleaning
@@ -66,10 +71,18 @@ SQL Query: [Data Analysis](https://github.com/siti-zahro/The-Coffee-Subscription
 
 **Analysis Answer**
 
-1. How many distinct orders are there? 368   <img width="256" height="246" alt="image" src="https://github.com/user-attachments/assets/98c6b8d5-f6ff-4230-986d-c95e5757a050" />
+1. How many distinct orders are there? 368
 
-2. How many orphan orders (no matching customer) are there? 8   <img width="190" height="59" alt="image" src="https://github.com/user-attachments/assets/33803571-50eb-411e-a2c3-601b2964dabc" />
+   <img width="256" height="246" alt="image" src="https://github.com/user-attachments/assets/98c6b8d5-f6ff-4230-986d-c95e5757a050" />
 
-3. What is the total paid revenue? ₱233,036   <img width="185" height="55" alt="image" src="https://github.com/user-attachments/assets/43dd13a1-dd95-4976-8eb6-df3debd18365" />
+2. How many orphan orders (no matching customer) are there? 8
 
-4. How many Paid orders are there? 260   <img width="187" height="59" alt="image" src="https://github.com/user-attachments/assets/9e381769-f76b-4ae5-8aed-75f432dd840c" />
+   <img width="190" height="59" alt="image" src="https://github.com/user-attachments/assets/33803571-50eb-411e-a2c3-601b2964dabc" />
+
+3. What is the total paid revenue? ₱233,036
+
+   <img width="185" height="55" alt="image" src="https://github.com/user-attachments/assets/43dd13a1-dd95-4976-8eb6-df3debd18365" />
+
+4. How many Paid orders are there? 260
+
+   <img width="187" height="59" alt="image" src="https://github.com/user-attachments/assets/9e381769-f76b-4ae5-8aed-75f432dd840c" />
